@@ -228,8 +228,7 @@ history = model.fit(
     callbacks = [validation_callback],
 )
 
-with open('F:/trainHistoryDict', 'wb') as file_pi:
-    pickle.dump(history.history, file_pi)
+model.save('f:\\mymodel.h5')
 
 predictions = []
 targets = []
