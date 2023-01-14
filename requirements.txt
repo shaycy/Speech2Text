@@ -3,6 +3,5 @@ numpy
 tensorflow
 jiwer
 keras
-matplotlib.pyplot
+matplotlib
 IPython
-pickle
