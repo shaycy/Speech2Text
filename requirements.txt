@@ -5,3 +5,4 @@ jiwer
 keras
 matplotlib
 IPython
+pygame

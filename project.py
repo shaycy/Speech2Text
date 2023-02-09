@@ -6,7 +6,6 @@ from keras import layers
 import matplotlib.pyplot as plt
 from IPython import display
 from jiwer import wer
-import pickle
 
 data_url = "https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2"
 file_name = "LJSpeech-1.1"
